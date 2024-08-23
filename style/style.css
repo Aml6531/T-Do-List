@@ -26,6 +26,18 @@ input{
     border-radius: 32px;
 }
 
+
+@media screen and (max-width: 360px) {
+
+  .container button{
+    top: 17.7%;
+    left: 45%;
+    width: 26%;
+   
+  }
+
+}
+
 .container button{
   top: 19%;
   border-radius: 24px;
